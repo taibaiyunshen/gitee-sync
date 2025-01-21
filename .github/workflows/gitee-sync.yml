@@ -110,8 +110,8 @@ jobs:
           GITEE_PASSWORD: ${{ secrets.GITEE_PASSWORD }}
         run: |
           echo "🔧 配置 Git 用户信息..."
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "taibaiyunshen"
+          git config --global user.email "1226318142@qq.com"
           
           echo "📥 正在克隆 Gitee 仓库的 ${GITEE_BRANCH} 分支..."
           # 构建包含认证信息的 URL
