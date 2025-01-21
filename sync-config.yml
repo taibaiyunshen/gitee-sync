@@ -14,14 +14,6 @@ repositories:
       # 是否为私有仓库
       private: false
 
-  #- name: "project-b-sync"  # 示例：同步一个开发分支的私有项目
-   # gitee:
-   #   repo_url: "https://gitee.com/xxx123/project-b.git"
-   #   branch: "develop"
-   # github:
-   #   repo_name: "project-b-private"
-   #   branch: "develop"
-   #   private: true
 
 
   # 可以继续添加更多仓库配置...
