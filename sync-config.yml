@@ -16,7 +16,7 @@ repositories:
 
   #- name: "project-b-sync"  # 示例：同步一个开发分支的私有项目
    # gitee:
-   #   repo_url: "https://gitee.com/xxx/project-b.git"
+   #   repo_url: "https://gitee.com/xxx123/project-b.git"
    #   branch: "develop"
    # github:
    #   repo_name: "project-b-private"
