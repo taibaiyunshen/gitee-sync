@@ -1,6 +1,6 @@
 # 仓库同步配置列表
 repositories:
-  - name: "project-a-sync"  # 示例：同步一个主分支的项目
+  - name: "fireworks"  # 示例：同步一个主分支的项目
     gitee:
       # Gitee 仓库完整地址
       repo_url: "https://gitee.com/taibaiyunshen/fireworks.git"
